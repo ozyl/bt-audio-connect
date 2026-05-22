@@ -1,0 +1,6 @@
+{
+  "deviceName": "xxx",
+  "enabled": true,
+  "fallbackCheckIntervalSeconds": 30,
+  "connectCooldownSeconds": 10.0
+}
